@@ -34,7 +34,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="description" content="Build better habits, one day at a time with Habits.lol" />
         <meta property="" content="Habits.lol" />
         <meta property="og:description" content="Build better habits, one day at a time with Habits.lol" />
-        <meta property="og:image" content="https://habits.lol/image.svg" />
+        <meta property="og:image" content="https://habits.lol/public/image.svg" />
         <meta property="og:image:type" content="image/svg+xml" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
